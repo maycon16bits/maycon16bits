@@ -23,7 +23,6 @@ post-manager-api     REST API for post management
 
 CONTACT
 
-LinkedIn    linkedin.com/in/mayconslv
 Email       mayconslv.contato@gmail.com
 GitHub      github.com/maycon16bits
 ```
