@@ -15,8 +15,15 @@ DATA          PostgreSQL · MongoDB
 INFRA         Docker · Git · Linux
 ARCHITECTURE  Clean Architecture · API Design
 
+FEATURED WORK
+
+finance-manager      Personal finance management application
+gym-solid-api        Backend API for gym management
+post-manager-api     REST API for post management
+
 CONTACT
 
+LinkedIn    linkedin.com/in/mayconslv
 Email       mayconslv.contato@gmail.com
 GitHub      github.com/maycon16bits
 ```
