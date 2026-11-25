@@ -1,6 +1,5 @@
 ```text
 Full Stack Developer
-Backend · Frontend · Software Engineering
 
 Building modern and reliable web applications.
 
@@ -18,7 +17,6 @@ ARCHITECTURE  Clean Architecture · API Design
 FEATURED WORK
 
 finance-manager      Personal finance management application
-gym-solid-api        Backend API for gym management
 post-manager-api     REST API for post management
 
 CONTACT
