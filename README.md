@@ -23,4 +23,5 @@ CONTACT
 
 Email       mayconslv.contato@gmail.com
 GitHub      github.com/maycon16bits
+Linkedin    linkedin.com/in/mayconslv
 ```
